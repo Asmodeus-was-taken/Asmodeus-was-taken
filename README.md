@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmodeus-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="asmodeus-was-taken" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmodeus-was-taken" alt="asmodeus-was-taken" /></a> </p>
+
 - 🔭 I’m currently working on [Playboy.cc](https://discord.gg/sy3Jdyas)
 
 - 🌱 I’m currently learning **JavaScript & Html**
@@ -26,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asmodeus-was-taken&show_icons=true&locale=en&layout=compact" alt="asmodeus-was-taken" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asmodeus-was-taken&show_icons=true&locale=en" alt="asmodeus-was-taken" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmodeus-was-taken&" alt="asmodeus-was-taken" /></p>
