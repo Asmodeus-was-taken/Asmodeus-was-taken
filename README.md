@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Legend or Asmodeus</h1>
-<h3 align="center">I am a full time Cheat developer and kernal developer</h3>
+<h1 align="center">I Just Really Hate Kids</h1>
+<h3 align="center">I am a full time Child Beater</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmodeus-was-taken&label=Profile%20views&color=0e75b6&style=flat" alt="asmodeus-was-taken" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmodeus-was-taken" alt="asmodeus-was-taken" /></a> </p>
 
-- 🔭 I’m currently working on [Playboy.cc](https://discord.gg/sy3Jdyas)
+- 🔭 I’m currently working on a method to beat kids(https://discord.gg/sy3Jdyas)
 
 - 🌱 I’m currently learning **Perl & Python**
 
-- 🤝 I’m looking for help with **Open Source Projects**
+- 🤝 I’m looking for help with **My Child beater 500**
 
 - 💬 Ask me about **C++, C, c#, Html, & css**
 
-- 📫 How to reach me **Lëgend#0283**
+- 📫 How to reach me **tinder: SexyKidBeater**
 
-- ⚡ Fun fact **I Am only 16**
+- ⚡ Fun fact **I Am only 99**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
